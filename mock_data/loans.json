@@ -1,0 +1,1052 @@
+[
+  {
+    "loan_id": "L1000",
+    "user_id": "U1000",
+    "amount": 19380,
+    "term_months": 60,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1001",
+    "user_id": "U1001",
+    "amount": 25895,
+    "term_months": 6,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1002",
+    "user_id": "U1002",
+    "amount": 49423,
+    "term_months": 36,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1003",
+    "user_id": "U1003",
+    "amount": 30574,
+    "term_months": 6,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1004",
+    "user_id": "U1004",
+    "amount": 4182,
+    "term_months": 12,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1005",
+    "user_id": "U1005",
+    "amount": 41292,
+    "term_months": 60,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1006",
+    "user_id": "U1006",
+    "amount": 27162,
+    "term_months": 48,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1007",
+    "user_id": "U1007",
+    "amount": 6999,
+    "term_months": 6,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1008",
+    "user_id": "U1008",
+    "amount": 15884,
+    "term_months": 48,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1009",
+    "user_id": "U1009",
+    "amount": 31641,
+    "term_months": 12,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1010",
+    "user_id": "U1010",
+    "amount": 25397,
+    "term_months": 12,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1011",
+    "user_id": "U1011",
+    "amount": 2148,
+    "term_months": 60,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1012",
+    "user_id": "U1012",
+    "amount": 43036,
+    "term_months": 6,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1013",
+    "user_id": "U1013",
+    "amount": 22747,
+    "term_months": 48,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1014",
+    "user_id": "U1014",
+    "amount": 25966,
+    "term_months": 36,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1015",
+    "user_id": "U1015",
+    "amount": 32198,
+    "term_months": 60,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1016",
+    "user_id": "U1016",
+    "amount": 2278,
+    "term_months": 6,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1017",
+    "user_id": "U1017",
+    "amount": 10986,
+    "term_months": 36,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1018",
+    "user_id": "U1018",
+    "amount": 34125,
+    "term_months": 60,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1019",
+    "user_id": "U1019",
+    "amount": 48464,
+    "term_months": 60,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1020",
+    "user_id": "U1020",
+    "amount": 14658,
+    "term_months": 36,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1021",
+    "user_id": "U1021",
+    "amount": 24288,
+    "term_months": 60,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1022",
+    "user_id": "U1022",
+    "amount": 34367,
+    "term_months": 36,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1023",
+    "user_id": "U1023",
+    "amount": 8804,
+    "term_months": 12,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1024",
+    "user_id": "U1024",
+    "amount": 5683,
+    "term_months": 36,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1025",
+    "user_id": "U1025",
+    "amount": 32028,
+    "term_months": 48,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1026",
+    "user_id": "U1026",
+    "amount": 7800,
+    "term_months": 6,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1027",
+    "user_id": "U1027",
+    "amount": 34770,
+    "term_months": 6,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1028",
+    "user_id": "U1028",
+    "amount": 31762,
+    "term_months": 6,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1029",
+    "user_id": "U1029",
+    "amount": 43492,
+    "term_months": 24,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1030",
+    "user_id": "U1030",
+    "amount": 1658,
+    "term_months": 6,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1031",
+    "user_id": "U1031",
+    "amount": 5180,
+    "term_months": 6,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1032",
+    "user_id": "U1032",
+    "amount": 3745,
+    "term_months": 36,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1033",
+    "user_id": "U1033",
+    "amount": 15653,
+    "term_months": 6,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1034",
+    "user_id": "U1034",
+    "amount": 20382,
+    "term_months": 60,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1035",
+    "user_id": "U1035",
+    "amount": 38110,
+    "term_months": 6,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1036",
+    "user_id": "U1036",
+    "amount": 22227,
+    "term_months": 60,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1037",
+    "user_id": "U1037",
+    "amount": 26123,
+    "term_months": 24,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1038",
+    "user_id": "U1038",
+    "amount": 13568,
+    "term_months": 36,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1039",
+    "user_id": "U1039",
+    "amount": 13552,
+    "term_months": 48,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1040",
+    "user_id": "U1040",
+    "amount": 15228,
+    "term_months": 60,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1041",
+    "user_id": "U1041",
+    "amount": 1889,
+    "term_months": 60,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1042",
+    "user_id": "U1042",
+    "amount": 45364,
+    "term_months": 36,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1043",
+    "user_id": "U1043",
+    "amount": 20106,
+    "term_months": 12,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1044",
+    "user_id": "U1044",
+    "amount": 14245,
+    "term_months": 60,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1045",
+    "user_id": "U1045",
+    "amount": 35887,
+    "term_months": 6,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1046",
+    "user_id": "U1046",
+    "amount": 4499,
+    "term_months": 36,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1047",
+    "user_id": "U1047",
+    "amount": 1284,
+    "term_months": 36,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1048",
+    "user_id": "U1048",
+    "amount": 2140,
+    "term_months": 48,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1049",
+    "user_id": "U1049",
+    "amount": 33280,
+    "term_months": 24,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1050",
+    "user_id": "U1050",
+    "amount": 12796,
+    "term_months": 24,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1051",
+    "user_id": "U1051",
+    "amount": 15941,
+    "term_months": 36,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1052",
+    "user_id": "U1052",
+    "amount": 37095,
+    "term_months": 60,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1053",
+    "user_id": "U1053",
+    "amount": 8180,
+    "term_months": 12,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1054",
+    "user_id": "U1054",
+    "amount": 17107,
+    "term_months": 12,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1055",
+    "user_id": "U1055",
+    "amount": 12983,
+    "term_months": 24,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1056",
+    "user_id": "U1056",
+    "amount": 36248,
+    "term_months": 48,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1057",
+    "user_id": "U1057",
+    "amount": 26564,
+    "term_months": 60,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1058",
+    "user_id": "U1058",
+    "amount": 45364,
+    "term_months": 48,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1059",
+    "user_id": "U1059",
+    "amount": 12489,
+    "term_months": 24,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1060",
+    "user_id": "U1060",
+    "amount": 38304,
+    "term_months": 6,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1061",
+    "user_id": "U1061",
+    "amount": 48747,
+    "term_months": 60,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1062",
+    "user_id": "U1062",
+    "amount": 30036,
+    "term_months": 60,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1063",
+    "user_id": "U1063",
+    "amount": 33857,
+    "term_months": 48,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1064",
+    "user_id": "U1064",
+    "amount": 43286,
+    "term_months": 24,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1065",
+    "user_id": "U1065",
+    "amount": 7736,
+    "term_months": 12,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1066",
+    "user_id": "U1066",
+    "amount": 46538,
+    "term_months": 24,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1067",
+    "user_id": "U1067",
+    "amount": 13512,
+    "term_months": 36,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1068",
+    "user_id": "U1068",
+    "amount": 13981,
+    "term_months": 6,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1069",
+    "user_id": "U1069",
+    "amount": 14526,
+    "term_months": 12,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1070",
+    "user_id": "U1070",
+    "amount": 3687,
+    "term_months": 60,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1071",
+    "user_id": "U1071",
+    "amount": 33160,
+    "term_months": 24,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1072",
+    "user_id": "U1072",
+    "amount": 25065,
+    "term_months": 6,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1073",
+    "user_id": "U1073",
+    "amount": 16180,
+    "term_months": 36,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1074",
+    "user_id": "U1074",
+    "amount": 39808,
+    "term_months": 48,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1075",
+    "user_id": "U1075",
+    "amount": 45992,
+    "term_months": 48,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1076",
+    "user_id": "U1076",
+    "amount": 47338,
+    "term_months": 60,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1077",
+    "user_id": "U1077",
+    "amount": 16952,
+    "term_months": 60,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1078",
+    "user_id": "U1078",
+    "amount": 31564,
+    "term_months": 6,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1079",
+    "user_id": "U1079",
+    "amount": 17799,
+    "term_months": 24,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1080",
+    "user_id": "U1080",
+    "amount": 8539,
+    "term_months": 12,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1081",
+    "user_id": "U1081",
+    "amount": 48617,
+    "term_months": 12,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1082",
+    "user_id": "U1082",
+    "amount": 14729,
+    "term_months": 24,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1083",
+    "user_id": "U1083",
+    "amount": 26103,
+    "term_months": 6,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1084",
+    "user_id": "U1084",
+    "amount": 27506,
+    "term_months": 48,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1085",
+    "user_id": "U1085",
+    "amount": 2408,
+    "term_months": 24,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1086",
+    "user_id": "U1086",
+    "amount": 48844,
+    "term_months": 6,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1087",
+    "user_id": "U1087",
+    "amount": 21647,
+    "term_months": 60,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1088",
+    "user_id": "U1088",
+    "amount": 49649,
+    "term_months": 6,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1089",
+    "user_id": "U1089",
+    "amount": 45136,
+    "term_months": 60,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1090",
+    "user_id": "U1090",
+    "amount": 22348,
+    "term_months": 60,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1091",
+    "user_id": "U1091",
+    "amount": 12575,
+    "term_months": 12,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1092",
+    "user_id": "U1092",
+    "amount": 32499,
+    "term_months": 6,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1093",
+    "user_id": "U1093",
+    "amount": 25095,
+    "term_months": 48,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1094",
+    "user_id": "U1094",
+    "amount": 10657,
+    "term_months": 36,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1095",
+    "user_id": "U1095",
+    "amount": 18674,
+    "term_months": 36,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1096",
+    "user_id": "U1096",
+    "amount": 44808,
+    "term_months": 60,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1097",
+    "user_id": "U1097",
+    "amount": 20474,
+    "term_months": 60,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1098",
+    "user_id": "U1098",
+    "amount": 32896,
+    "term_months": 24,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1099",
+    "user_id": "U1099",
+    "amount": 37293,
+    "term_months": 24,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1100",
+    "user_id": "U1100",
+    "amount": 31397,
+    "term_months": 6,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1101",
+    "user_id": "U1101",
+    "amount": 36156,
+    "term_months": 48,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1102",
+    "user_id": "U1102",
+    "amount": 39270,
+    "term_months": 24,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1103",
+    "user_id": "U1103",
+    "amount": 26115,
+    "term_months": 12,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1104",
+    "user_id": "U1104",
+    "amount": 24247,
+    "term_months": 12,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1105",
+    "user_id": "U1105",
+    "amount": 49835,
+    "term_months": 24,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1106",
+    "user_id": "U1106",
+    "amount": 5918,
+    "term_months": 48,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1107",
+    "user_id": "U1107",
+    "amount": 39701,
+    "term_months": 36,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1108",
+    "user_id": "U1108",
+    "amount": 40833,
+    "term_months": 60,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1109",
+    "user_id": "U1109",
+    "amount": 24081,
+    "term_months": 6,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1110",
+    "user_id": "U1110",
+    "amount": 17690,
+    "term_months": 36,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1111",
+    "user_id": "U1111",
+    "amount": 24574,
+    "term_months": 12,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1112",
+    "user_id": "U1112",
+    "amount": 3904,
+    "term_months": 24,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1113",
+    "user_id": "U1113",
+    "amount": 41671,
+    "term_months": 6,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1114",
+    "user_id": "U1114",
+    "amount": 41575,
+    "term_months": 60,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1115",
+    "user_id": "U1115",
+    "amount": 24589,
+    "term_months": 6,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1116",
+    "user_id": "U1116",
+    "amount": 18594,
+    "term_months": 60,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1117",
+    "user_id": "U1117",
+    "amount": 7352,
+    "term_months": 24,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1118",
+    "user_id": "U1118",
+    "amount": 44166,
+    "term_months": 36,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1119",
+    "user_id": "U1119",
+    "amount": 10131,
+    "term_months": 36,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1120",
+    "user_id": "U1120",
+    "amount": 2696,
+    "term_months": 12,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1121",
+    "user_id": "U1121",
+    "amount": 11963,
+    "term_months": 48,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1122",
+    "user_id": "U1122",
+    "amount": 34008,
+    "term_months": 36,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1123",
+    "user_id": "U1123",
+    "amount": 49699,
+    "term_months": 48,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1124",
+    "user_id": "U1124",
+    "amount": 11649,
+    "term_months": 12,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1125",
+    "user_id": "U1125",
+    "amount": 23318,
+    "term_months": 6,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1126",
+    "user_id": "U1126",
+    "amount": 6437,
+    "term_months": 48,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1127",
+    "user_id": "U1127",
+    "amount": 30768,
+    "term_months": 6,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1128",
+    "user_id": "U1128",
+    "amount": 5844,
+    "term_months": 36,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1129",
+    "user_id": "U1129",
+    "amount": 35356,
+    "term_months": 60,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1130",
+    "user_id": "U1130",
+    "amount": 19312,
+    "term_months": 6,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1131",
+    "user_id": "U1131",
+    "amount": 47163,
+    "term_months": 6,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1132",
+    "user_id": "U1132",
+    "amount": 15933,
+    "term_months": 12,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1133",
+    "user_id": "U1133",
+    "amount": 4205,
+    "term_months": 60,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1134",
+    "user_id": "U1134",
+    "amount": 27800,
+    "term_months": 48,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1135",
+    "user_id": "U1135",
+    "amount": 8526,
+    "term_months": 6,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1136",
+    "user_id": "U1136",
+    "amount": 43399,
+    "term_months": 24,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1137",
+    "user_id": "U1137",
+    "amount": 25434,
+    "term_months": 36,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1138",
+    "user_id": "U1138",
+    "amount": 6358,
+    "term_months": 60,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1139",
+    "user_id": "U1139",
+    "amount": 20563,
+    "term_months": 48,
+    "purpose": "Education"
+  },
+  {
+    "loan_id": "L1140",
+    "user_id": "U1140",
+    "amount": 10226,
+    "term_months": 60,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1141",
+    "user_id": "U1141",
+    "amount": 15770,
+    "term_months": 36,
+    "purpose": "Debt Consolidation"
+  },
+  {
+    "loan_id": "L1142",
+    "user_id": "U1142",
+    "amount": 11058,
+    "term_months": 60,
+    "purpose": "Medical"
+  },
+  {
+    "loan_id": "L1143",
+    "user_id": "U1143",
+    "amount": 41189,
+    "term_months": 36,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1144",
+    "user_id": "U1144",
+    "amount": 19678,
+    "term_months": 36,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1145",
+    "user_id": "U1145",
+    "amount": 22306,
+    "term_months": 60,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1146",
+    "user_id": "U1146",
+    "amount": 49008,
+    "term_months": 60,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1147",
+    "user_id": "U1147",
+    "amount": 37593,
+    "term_months": 36,
+    "purpose": "Home Renovation"
+  },
+  {
+    "loan_id": "L1148",
+    "user_id": "U1148",
+    "amount": 33456,
+    "term_months": 24,
+    "purpose": "Business"
+  },
+  {
+    "loan_id": "L1149",
+    "user_id": "U1149",
+    "amount": 34359,
+    "term_months": 6,
+    "purpose": "Education"
+  }
+]

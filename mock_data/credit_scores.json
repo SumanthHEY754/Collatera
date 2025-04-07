@@ -1,0 +1,752 @@
+[
+  {
+    "user_id": "U1000",
+    "credit_score": 787,
+    "score_id": "S1000"
+  },
+  {
+    "user_id": "U1001",
+    "credit_score": 569,
+    "score_id": "S1001"
+  },
+  {
+    "user_id": "U1002",
+    "credit_score": 505,
+    "score_id": "S1002"
+  },
+  {
+    "user_id": "U1003",
+    "credit_score": 536,
+    "score_id": "S1003"
+  },
+  {
+    "user_id": "U1004",
+    "credit_score": 757,
+    "score_id": "S1004"
+  },
+  {
+    "user_id": "U1005",
+    "credit_score": 671,
+    "score_id": "S1005"
+  },
+  {
+    "user_id": "U1006",
+    "credit_score": 602,
+    "score_id": "S1006"
+  },
+  {
+    "user_id": "U1007",
+    "credit_score": 783,
+    "score_id": "S1007"
+  },
+  {
+    "user_id": "U1008",
+    "credit_score": 616,
+    "score_id": "S1008"
+  },
+  {
+    "user_id": "U1009",
+    "credit_score": 759,
+    "score_id": "S1009"
+  },
+  {
+    "user_id": "U1010",
+    "credit_score": 684,
+    "score_id": "S1010"
+  },
+  {
+    "user_id": "U1011",
+    "credit_score": 725,
+    "score_id": "S1011"
+  },
+  {
+    "user_id": "U1012",
+    "credit_score": 669,
+    "score_id": "S1012"
+  },
+  {
+    "user_id": "U1013",
+    "credit_score": 620,
+    "score_id": "S1013"
+  },
+  {
+    "user_id": "U1014",
+    "credit_score": 570,
+    "score_id": "S1014"
+  },
+  {
+    "user_id": "U1015",
+    "credit_score": 623,
+    "score_id": "S1015"
+  },
+  {
+    "user_id": "U1016",
+    "credit_score": 548,
+    "score_id": "S1016"
+  },
+  {
+    "user_id": "U1017",
+    "credit_score": 587,
+    "score_id": "S1017"
+  },
+  {
+    "user_id": "U1018",
+    "credit_score": 695,
+    "score_id": "S1018"
+  },
+  {
+    "user_id": "U1019",
+    "credit_score": 510,
+    "score_id": "S1019"
+  },
+  {
+    "user_id": "U1020",
+    "credit_score": 600,
+    "score_id": "S1020"
+  },
+  {
+    "user_id": "U1021",
+    "credit_score": 535,
+    "score_id": "S1021"
+  },
+  {
+    "user_id": "U1022",
+    "credit_score": 563,
+    "score_id": "S1022"
+  },
+  {
+    "user_id": "U1023",
+    "credit_score": 718,
+    "score_id": "S1023"
+  },
+  {
+    "user_id": "U1024",
+    "credit_score": 709,
+    "score_id": "S1024"
+  },
+  {
+    "user_id": "U1025",
+    "credit_score": 640,
+    "score_id": "S1025"
+  },
+  {
+    "user_id": "U1026",
+    "credit_score": 703,
+    "score_id": "S1026"
+  },
+  {
+    "user_id": "U1027",
+    "credit_score": 783,
+    "score_id": "S1027"
+  },
+  {
+    "user_id": "U1028",
+    "credit_score": 624,
+    "score_id": "S1028"
+  },
+  {
+    "user_id": "U1029",
+    "credit_score": 501,
+    "score_id": "S1029"
+  },
+  {
+    "user_id": "U1030",
+    "credit_score": 793,
+    "score_id": "S1030"
+  },
+  {
+    "user_id": "U1031",
+    "credit_score": 726,
+    "score_id": "S1031"
+  },
+  {
+    "user_id": "U1032",
+    "credit_score": 571,
+    "score_id": "S1032"
+  },
+  {
+    "user_id": "U1033",
+    "credit_score": 672,
+    "score_id": "S1033"
+  },
+  {
+    "user_id": "U1034",
+    "credit_score": 712,
+    "score_id": "S1034"
+  },
+  {
+    "user_id": "U1035",
+    "credit_score": 542,
+    "score_id": "S1035"
+  },
+  {
+    "user_id": "U1036",
+    "credit_score": 531,
+    "score_id": "S1036"
+  },
+  {
+    "user_id": "U1037",
+    "credit_score": 713,
+    "score_id": "S1037"
+  },
+  {
+    "user_id": "U1038",
+    "credit_score": 774,
+    "score_id": "S1038"
+  },
+  {
+    "user_id": "U1039",
+    "credit_score": 664,
+    "score_id": "S1039"
+  },
+  {
+    "user_id": "U1040",
+    "credit_score": 540,
+    "score_id": "S1040"
+  },
+  {
+    "user_id": "U1041",
+    "credit_score": 548,
+    "score_id": "S1041"
+  },
+  {
+    "user_id": "U1042",
+    "credit_score": 745,
+    "score_id": "S1042"
+  },
+  {
+    "user_id": "U1043",
+    "credit_score": 643,
+    "score_id": "S1043"
+  },
+  {
+    "user_id": "U1044",
+    "credit_score": 715,
+    "score_id": "S1044"
+  },
+  {
+    "user_id": "U1045",
+    "credit_score": 554,
+    "score_id": "S1045"
+  },
+  {
+    "user_id": "U1046",
+    "credit_score": 774,
+    "score_id": "S1046"
+  },
+  {
+    "user_id": "U1047",
+    "credit_score": 517,
+    "score_id": "S1047"
+  },
+  {
+    "user_id": "U1048",
+    "credit_score": 738,
+    "score_id": "S1048"
+  },
+  {
+    "user_id": "U1049",
+    "credit_score": 650,
+    "score_id": "S1049"
+  },
+  {
+    "user_id": "U1050",
+    "credit_score": 800,
+    "score_id": "S1050"
+  },
+  {
+    "user_id": "U1051",
+    "credit_score": 524,
+    "score_id": "S1051"
+  },
+  {
+    "user_id": "U1052",
+    "credit_score": 700,
+    "score_id": "S1052"
+  },
+  {
+    "user_id": "U1053",
+    "credit_score": 670,
+    "score_id": "S1053"
+  },
+  {
+    "user_id": "U1054",
+    "credit_score": 685,
+    "score_id": "S1054"
+  },
+  {
+    "user_id": "U1055",
+    "credit_score": 700,
+    "score_id": "S1055"
+  },
+  {
+    "user_id": "U1056",
+    "credit_score": 689,
+    "score_id": "S1056"
+  },
+  {
+    "user_id": "U1057",
+    "credit_score": 503,
+    "score_id": "S1057"
+  },
+  {
+    "user_id": "U1058",
+    "credit_score": 646,
+    "score_id": "S1058"
+  },
+  {
+    "user_id": "U1059",
+    "credit_score": 601,
+    "score_id": "S1059"
+  },
+  {
+    "user_id": "U1060",
+    "credit_score": 730,
+    "score_id": "S1060"
+  },
+  {
+    "user_id": "U1061",
+    "credit_score": 644,
+    "score_id": "S1061"
+  },
+  {
+    "user_id": "U1062",
+    "credit_score": 510,
+    "score_id": "S1062"
+  },
+  {
+    "user_id": "U1063",
+    "credit_score": 761,
+    "score_id": "S1063"
+  },
+  {
+    "user_id": "U1064",
+    "credit_score": 729,
+    "score_id": "S1064"
+  },
+  {
+    "user_id": "U1065",
+    "credit_score": 610,
+    "score_id": "S1065"
+  },
+  {
+    "user_id": "U1066",
+    "credit_score": 741,
+    "score_id": "S1066"
+  },
+  {
+    "user_id": "U1067",
+    "credit_score": 589,
+    "score_id": "S1067"
+  },
+  {
+    "user_id": "U1068",
+    "credit_score": 701,
+    "score_id": "S1068"
+  },
+  {
+    "user_id": "U1069",
+    "credit_score": 784,
+    "score_id": "S1069"
+  },
+  {
+    "user_id": "U1070",
+    "credit_score": 671,
+    "score_id": "S1070"
+  },
+  {
+    "user_id": "U1071",
+    "credit_score": 782,
+    "score_id": "S1071"
+  },
+  {
+    "user_id": "U1072",
+    "credit_score": 720,
+    "score_id": "S1072"
+  },
+  {
+    "user_id": "U1073",
+    "credit_score": 683,
+    "score_id": "S1073"
+  },
+  {
+    "user_id": "U1074",
+    "credit_score": 752,
+    "score_id": "S1074"
+  },
+  {
+    "user_id": "U1075",
+    "credit_score": 539,
+    "score_id": "S1075"
+  },
+  {
+    "user_id": "U1076",
+    "credit_score": 662,
+    "score_id": "S1076"
+  },
+  {
+    "user_id": "U1077",
+    "credit_score": 741,
+    "score_id": "S1077"
+  },
+  {
+    "user_id": "U1078",
+    "credit_score": 738,
+    "score_id": "S1078"
+  },
+  {
+    "user_id": "U1079",
+    "credit_score": 644,
+    "score_id": "S1079"
+  },
+  {
+    "user_id": "U1080",
+    "credit_score": 710,
+    "score_id": "S1080"
+  },
+  {
+    "user_id": "U1081",
+    "credit_score": 684,
+    "score_id": "S1081"
+  },
+  {
+    "user_id": "U1082",
+    "credit_score": 543,
+    "score_id": "S1082"
+  },
+  {
+    "user_id": "U1083",
+    "credit_score": 766,
+    "score_id": "S1083"
+  },
+  {
+    "user_id": "U1084",
+    "credit_score": 730,
+    "score_id": "S1084"
+  },
+  {
+    "user_id": "U1085",
+    "credit_score": 644,
+    "score_id": "S1085"
+  },
+  {
+    "user_id": "U1086",
+    "credit_score": 672,
+    "score_id": "S1086"
+  },
+  {
+    "user_id": "U1087",
+    "credit_score": 612,
+    "score_id": "S1087"
+  },
+  {
+    "user_id": "U1088",
+    "credit_score": 522,
+    "score_id": "S1088"
+  },
+  {
+    "user_id": "U1089",
+    "credit_score": 549,
+    "score_id": "S1089"
+  },
+  {
+    "user_id": "U1090",
+    "credit_score": 679,
+    "score_id": "S1090"
+  },
+  {
+    "user_id": "U1091",
+    "credit_score": 649,
+    "score_id": "S1091"
+  },
+  {
+    "user_id": "U1092",
+    "credit_score": 653,
+    "score_id": "S1092"
+  },
+  {
+    "user_id": "U1093",
+    "credit_score": 757,
+    "score_id": "S1093"
+  },
+  {
+    "user_id": "U1094",
+    "credit_score": 611,
+    "score_id": "S1094"
+  },
+  {
+    "user_id": "U1095",
+    "credit_score": 687,
+    "score_id": "S1095"
+  },
+  {
+    "user_id": "U1096",
+    "credit_score": 525,
+    "score_id": "S1096"
+  },
+  {
+    "user_id": "U1097",
+    "credit_score": 762,
+    "score_id": "S1097"
+  },
+  {
+    "user_id": "U1098",
+    "credit_score": 697,
+    "score_id": "S1098"
+  },
+  {
+    "user_id": "U1099",
+    "credit_score": 649,
+    "score_id": "S1099"
+  },
+  {
+    "user_id": "U1100",
+    "credit_score": 773,
+    "score_id": "S1100"
+  },
+  {
+    "user_id": "U1101",
+    "credit_score": 711,
+    "score_id": "S1101"
+  },
+  {
+    "user_id": "U1102",
+    "credit_score": 626,
+    "score_id": "S1102"
+  },
+  {
+    "user_id": "U1103",
+    "credit_score": 652,
+    "score_id": "S1103"
+  },
+  {
+    "user_id": "U1104",
+    "credit_score": 508,
+    "score_id": "S1104"
+  },
+  {
+    "user_id": "U1105",
+    "credit_score": 535,
+    "score_id": "S1105"
+  },
+  {
+    "user_id": "U1106",
+    "credit_score": 737,
+    "score_id": "S1106"
+  },
+  {
+    "user_id": "U1107",
+    "credit_score": 515,
+    "score_id": "S1107"
+  },
+  {
+    "user_id": "U1108",
+    "credit_score": 763,
+    "score_id": "S1108"
+  },
+  {
+    "user_id": "U1109",
+    "credit_score": 620,
+    "score_id": "S1109"
+  },
+  {
+    "user_id": "U1110",
+    "credit_score": 616,
+    "score_id": "S1110"
+  },
+  {
+    "user_id": "U1111",
+    "credit_score": 715,
+    "score_id": "S1111"
+  },
+  {
+    "user_id": "U1112",
+    "credit_score": 658,
+    "score_id": "S1112"
+  },
+  {
+    "user_id": "U1113",
+    "credit_score": 714,
+    "score_id": "S1113"
+  },
+  {
+    "user_id": "U1114",
+    "credit_score": 741,
+    "score_id": "S1114"
+  },
+  {
+    "user_id": "U1115",
+    "credit_score": 638,
+    "score_id": "S1115"
+  },
+  {
+    "user_id": "U1116",
+    "credit_score": 559,
+    "score_id": "S1116"
+  },
+  {
+    "user_id": "U1117",
+    "credit_score": 691,
+    "score_id": "S1117"
+  },
+  {
+    "user_id": "U1118",
+    "credit_score": 717,
+    "score_id": "S1118"
+  },
+  {
+    "user_id": "U1119",
+    "credit_score": 514,
+    "score_id": "S1119"
+  },
+  {
+    "user_id": "U1120",
+    "credit_score": 754,
+    "score_id": "S1120"
+  },
+  {
+    "user_id": "U1121",
+    "credit_score": 765,
+    "score_id": "S1121"
+  },
+  {
+    "user_id": "U1122",
+    "credit_score": 766,
+    "score_id": "S1122"
+  },
+  {
+    "user_id": "U1123",
+    "credit_score": 615,
+    "score_id": "S1123"
+  },
+  {
+    "user_id": "U1124",
+    "credit_score": 727,
+    "score_id": "S1124"
+  },
+  {
+    "user_id": "U1125",
+    "credit_score": 734,
+    "score_id": "S1125"
+  },
+  {
+    "user_id": "U1126",
+    "credit_score": 633,
+    "score_id": "S1126"
+  },
+  {
+    "user_id": "U1127",
+    "credit_score": 623,
+    "score_id": "S1127"
+  },
+  {
+    "user_id": "U1128",
+    "credit_score": 620,
+    "score_id": "S1128"
+  },
+  {
+    "user_id": "U1129",
+    "credit_score": 606,
+    "score_id": "S1129"
+  },
+  {
+    "user_id": "U1130",
+    "credit_score": 533,
+    "score_id": "S1130"
+  },
+  {
+    "user_id": "U1131",
+    "credit_score": 703,
+    "score_id": "S1131"
+  },
+  {
+    "user_id": "U1132",
+    "credit_score": 670,
+    "score_id": "S1132"
+  },
+  {
+    "user_id": "U1133",
+    "credit_score": 505,
+    "score_id": "S1133"
+  },
+  {
+    "user_id": "U1134",
+    "credit_score": 528,
+    "score_id": "S1134"
+  },
+  {
+    "user_id": "U1135",
+    "credit_score": 741,
+    "score_id": "S1135"
+  },
+  {
+    "user_id": "U1136",
+    "credit_score": 598,
+    "score_id": "S1136"
+  },
+  {
+    "user_id": "U1137",
+    "credit_score": 800,
+    "score_id": "S1137"
+  },
+  {
+    "user_id": "U1138",
+    "credit_score": 680,
+    "score_id": "S1138"
+  },
+  {
+    "user_id": "U1139",
+    "credit_score": 547,
+    "score_id": "S1139"
+  },
+  {
+    "user_id": "U1140",
+    "credit_score": 524,
+    "score_id": "S1140"
+  },
+  {
+    "user_id": "U1141",
+    "credit_score": 581,
+    "score_id": "S1141"
+  },
+  {
+    "user_id": "U1142",
+    "credit_score": 528,
+    "score_id": "S1142"
+  },
+  {
+    "user_id": "U1143",
+    "credit_score": 592,
+    "score_id": "S1143"
+  },
+  {
+    "user_id": "U1144",
+    "credit_score": 588,
+    "score_id": "S1144"
+  },
+  {
+    "user_id": "U1145",
+    "credit_score": 522,
+    "score_id": "S1145"
+  },
+  {
+    "user_id": "U1146",
+    "credit_score": 747,
+    "score_id": "S1146"
+  },
+  {
+    "user_id": "U1147",
+    "credit_score": 660,
+    "score_id": "S1147"
+  },
+  {
+    "user_id": "U1148",
+    "credit_score": 664,
+    "score_id": "S1148"
+  },
+  {
+    "user_id": "U1149",
+    "credit_score": 613,
+    "score_id": "S1149"
+  }
+]

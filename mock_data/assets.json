@@ -1,0 +1,1778 @@
+[
+  {
+    "user_id": "U1000",
+    "asset_type": "Savings",
+    "details": "ICICI",
+    "value": 67919
+  },
+  {
+    "user_id": "U1001",
+    "asset_type": "Stocks",
+    "details": "GOOGL",
+    "value": 61456
+  },
+  {
+    "user_id": "U1001",
+    "asset_type": "Mutual Funds",
+    "details": "VFIAX",
+    "value": 50294
+  },
+  {
+    "user_id": "U1002",
+    "asset_type": "Mutual Funds",
+    "details": "FXAIX",
+    "value": 79727
+  },
+  {
+    "user_id": "U1002",
+    "asset_type": "Crypto",
+    "details": "ADA",
+    "value": 26205
+  },
+  {
+    "user_id": "U1003",
+    "asset_type": "Savings",
+    "details": "HDFC",
+    "value": 57443
+  },
+  {
+    "user_id": "U1003",
+    "asset_type": "Stocks",
+    "details": "GOOGL",
+    "value": 94390
+  },
+  {
+    "user_id": "U1004",
+    "asset_type": "Savings",
+    "details": "BoA",
+    "value": 15624
+  },
+  {
+    "user_id": "U1004",
+    "asset_type": "Savings",
+    "details": "ICICI",
+    "value": 19315
+  },
+  {
+    "user_id": "U1004",
+    "asset_type": "Stocks",
+    "details": "TSLA",
+    "value": 54707
+  },
+  {
+    "user_id": "U1005",
+    "asset_type": "Savings",
+    "details": "HDFC",
+    "value": 91033
+  },
+  {
+    "user_id": "U1005",
+    "asset_type": "Crypto",
+    "details": "ETH",
+    "value": 96012
+  },
+  {
+    "user_id": "U1005",
+    "asset_type": "Stocks",
+    "details": "GOOGL",
+    "value": 62314
+  },
+  {
+    "user_id": "U1006",
+    "asset_type": "Savings",
+    "details": "HDFC",
+    "value": 49984
+  },
+  {
+    "user_id": "U1006",
+    "asset_type": "Mutual Funds",
+    "details": "FXAIX",
+    "value": 59962
+  },
+  {
+    "user_id": "U1007",
+    "asset_type": "Crypto",
+    "details": "BTC",
+    "value": 8573
+  },
+  {
+    "user_id": "U1008",
+    "asset_type": "Mutual Funds",
+    "details": "VFIAX",
+    "value": 94351
+  },
+  {
+    "user_id": "U1008",
+    "asset_type": "Savings",
+    "details": "HDFC",
+    "value": 14629
+  },
+  {
+    "user_id": "U1009",
+    "asset_type": "Crypto",
+    "details": "SOL",
+    "value": 40583
+  },
+  {
+    "user_id": "U1009",
+    "asset_type": "Stocks",
+    "details": "AAPL",
+    "value": 65197
+  },
+  {
+    "user_id": "U1010",
+    "asset_type": "Crypto",
+    "details": "ADA",
+    "value": 83546
+  },
+  {
+    "user_id": "U1010",
+    "asset_type": "Crypto",
+    "details": "ETH",
+    "value": 87581
+  },
+  {
+    "user_id": "U1010",
+    "asset_type": "Stocks",
+    "details": "GOOGL",
+    "value": 45666
+  },
+  {
+    "user_id": "U1011",
+    "asset_type": "Crypto",
+    "details": "ADA",
+    "value": 63089
+  },
+  {
+    "user_id": "U1011",
+    "asset_type": "Savings",
+    "details": "HDFC",
+    "value": 65554
+  },
+  {
+    "user_id": "U1011",
+    "asset_type": "Stocks",
+    "details": "AAPL",
+    "value": 2289
+  },
+  {
+    "user_id": "U1012",
+    "asset_type": "Savings",
+    "details": "HDFC",
+    "value": 37628
+  },
+  {
+    "user_id": "U1013",
+    "asset_type": "Mutual Funds",
+    "details": "VFIAX",
+    "value": 16520
+  },
+  {
+    "user_id": "U1014",
+    "asset_type": "Crypto",
+    "details": "BTC",
+    "value": 35490
+  },
+  {
+    "user_id": "U1014",
+    "asset_type": "Stocks",
+    "details": "MSFT",
+    "value": 60171
+  },
+  {
+    "user_id": "U1015",
+    "asset_type": "Crypto",
+    "details": "ADA",
+    "value": 72893
+  },
+  {
+    "user_id": "U1016",
+    "asset_type": "Stocks",
+    "details": "TSLA",
+    "value": 2840
+  },
+  {
+    "user_id": "U1016",
+    "asset_type": "Stocks",
+    "details": "TSLA",
+    "value": 24212
+  },
+  {
+    "user_id": "U1016",
+    "asset_type": "Stocks",
+    "details": "GOOGL",
+    "value": 69597
+  },
+  {
+    "user_id": "U1017",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 43723
+  },
+  {
+    "user_id": "U1018",
+    "asset_type": "Savings",
+    "details": "Chase",
+    "value": 20737
+  },
+  {
+    "user_id": "U1018",
+    "asset_type": "Mutual Funds",
+    "details": "FXAIX",
+    "value": 74955
+  },
+  {
+    "user_id": "U1019",
+    "asset_type": "Savings",
+    "details": "BoA",
+    "value": 56042
+  },
+  {
+    "user_id": "U1019",
+    "asset_type": "Crypto",
+    "details": "BTC",
+    "value": 99334
+  },
+  {
+    "user_id": "U1020",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 55380
+  },
+  {
+    "user_id": "U1021",
+    "asset_type": "Savings",
+    "details": "ICICI",
+    "value": 6271
+  },
+  {
+    "user_id": "U1021",
+    "asset_type": "Stocks",
+    "details": "MSFT",
+    "value": 70403
+  },
+  {
+    "user_id": "U1021",
+    "asset_type": "Stocks",
+    "details": "MSFT",
+    "value": 2725
+  },
+  {
+    "user_id": "U1022",
+    "asset_type": "Stocks",
+    "details": "AAPL",
+    "value": 28255
+  },
+  {
+    "user_id": "U1022",
+    "asset_type": "Savings",
+    "details": "Chase",
+    "value": 8181
+  },
+  {
+    "user_id": "U1023",
+    "asset_type": "Crypto",
+    "details": "ETH",
+    "value": 23282
+  },
+  {
+    "user_id": "U1023",
+    "asset_type": "Crypto",
+    "details": "ETH",
+    "value": 28546
+  },
+  {
+    "user_id": "U1024",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 61983
+  },
+  {
+    "user_id": "U1025",
+    "asset_type": "Crypto",
+    "details": "ETH",
+    "value": 7893
+  },
+  {
+    "user_id": "U1026",
+    "asset_type": "Mutual Funds",
+    "details": "FXAIX",
+    "value": 16458
+  },
+  {
+    "user_id": "U1027",
+    "asset_type": "Savings",
+    "details": "HDFC",
+    "value": 14048
+  },
+  {
+    "user_id": "U1028",
+    "asset_type": "Stocks",
+    "details": "TSLA",
+    "value": 88964
+  },
+  {
+    "user_id": "U1029",
+    "asset_type": "Savings",
+    "details": "ICICI",
+    "value": 47942
+  },
+  {
+    "user_id": "U1029",
+    "asset_type": "Stocks",
+    "details": "TSLA",
+    "value": 36584
+  },
+  {
+    "user_id": "U1030",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 7344
+  },
+  {
+    "user_id": "U1031",
+    "asset_type": "Crypto",
+    "details": "ETH",
+    "value": 49294
+  },
+  {
+    "user_id": "U1031",
+    "asset_type": "Crypto",
+    "details": "BTC",
+    "value": 29912
+  },
+  {
+    "user_id": "U1032",
+    "asset_type": "Stocks",
+    "details": "GOOGL",
+    "value": 38788
+  },
+  {
+    "user_id": "U1033",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 25783
+  },
+  {
+    "user_id": "U1034",
+    "asset_type": "Mutual Funds",
+    "details": "FXAIX",
+    "value": 81742
+  },
+  {
+    "user_id": "U1034",
+    "asset_type": "Savings",
+    "details": "BoA",
+    "value": 50066
+  },
+  {
+    "user_id": "U1035",
+    "asset_type": "Stocks",
+    "details": "AAPL",
+    "value": 94302
+  },
+  {
+    "user_id": "U1036",
+    "asset_type": "Crypto",
+    "details": "SOL",
+    "value": 73760
+  },
+  {
+    "user_id": "U1037",
+    "asset_type": "Crypto",
+    "details": "ADA",
+    "value": 86840
+  },
+  {
+    "user_id": "U1037",
+    "asset_type": "Savings",
+    "details": "Chase",
+    "value": 36663
+  },
+  {
+    "user_id": "U1038",
+    "asset_type": "Crypto",
+    "details": "ETH",
+    "value": 42048
+  },
+  {
+    "user_id": "U1039",
+    "asset_type": "Savings",
+    "details": "ICICI",
+    "value": 5673
+  },
+  {
+    "user_id": "U1039",
+    "asset_type": "Savings",
+    "details": "HDFC",
+    "value": 77142
+  },
+  {
+    "user_id": "U1040",
+    "asset_type": "Mutual Funds",
+    "details": "VFIAX",
+    "value": 48761
+  },
+  {
+    "user_id": "U1040",
+    "asset_type": "Stocks",
+    "details": "MSFT",
+    "value": 87587
+  },
+  {
+    "user_id": "U1041",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 75320
+  },
+  {
+    "user_id": "U1041",
+    "asset_type": "Savings",
+    "details": "BoA",
+    "value": 92538
+  },
+  {
+    "user_id": "U1041",
+    "asset_type": "Crypto",
+    "details": "BTC",
+    "value": 27084
+  },
+  {
+    "user_id": "U1042",
+    "asset_type": "Crypto",
+    "details": "BTC",
+    "value": 30518
+  },
+  {
+    "user_id": "U1042",
+    "asset_type": "Savings",
+    "details": "ICICI",
+    "value": 85504
+  },
+  {
+    "user_id": "U1042",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 53075
+  },
+  {
+    "user_id": "U1043",
+    "asset_type": "Crypto",
+    "details": "BTC",
+    "value": 32600
+  },
+  {
+    "user_id": "U1044",
+    "asset_type": "Savings",
+    "details": "BoA",
+    "value": 48465
+  },
+  {
+    "user_id": "U1044",
+    "asset_type": "Crypto",
+    "details": "ETH",
+    "value": 32275
+  },
+  {
+    "user_id": "U1044",
+    "asset_type": "Crypto",
+    "details": "BTC",
+    "value": 90248
+  },
+  {
+    "user_id": "U1045",
+    "asset_type": "Crypto",
+    "details": "BTC",
+    "value": 75903
+  },
+  {
+    "user_id": "U1045",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 94239
+  },
+  {
+    "user_id": "U1045",
+    "asset_type": "Stocks",
+    "details": "MSFT",
+    "value": 63710
+  },
+  {
+    "user_id": "U1046",
+    "asset_type": "Mutual Funds",
+    "details": "FXAIX",
+    "value": 17978
+  },
+  {
+    "user_id": "U1046",
+    "asset_type": "Stocks",
+    "details": "GOOGL",
+    "value": 3682
+  },
+  {
+    "user_id": "U1047",
+    "asset_type": "Crypto",
+    "details": "ADA",
+    "value": 50829
+  },
+  {
+    "user_id": "U1047",
+    "asset_type": "Stocks",
+    "details": "GOOGL",
+    "value": 37138
+  },
+  {
+    "user_id": "U1048",
+    "asset_type": "Stocks",
+    "details": "AAPL",
+    "value": 4773
+  },
+  {
+    "user_id": "U1048",
+    "asset_type": "Mutual Funds",
+    "details": "FXAIX",
+    "value": 98077
+  },
+  {
+    "user_id": "U1048",
+    "asset_type": "Stocks",
+    "details": "GOOGL",
+    "value": 14451
+  },
+  {
+    "user_id": "U1049",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 81670
+  },
+  {
+    "user_id": "U1049",
+    "asset_type": "Crypto",
+    "details": "BTC",
+    "value": 47327
+  },
+  {
+    "user_id": "U1049",
+    "asset_type": "Savings",
+    "details": "ICICI",
+    "value": 39003
+  },
+  {
+    "user_id": "U1050",
+    "asset_type": "Stocks",
+    "details": "TSLA",
+    "value": 38670
+  },
+  {
+    "user_id": "U1050",
+    "asset_type": "Stocks",
+    "details": "MSFT",
+    "value": 11894
+  },
+  {
+    "user_id": "U1050",
+    "asset_type": "Mutual Funds",
+    "details": "VFIAX",
+    "value": 52462
+  },
+  {
+    "user_id": "U1051",
+    "asset_type": "Stocks",
+    "details": "AAPL",
+    "value": 28321
+  },
+  {
+    "user_id": "U1051",
+    "asset_type": "Savings",
+    "details": "Chase",
+    "value": 36169
+  },
+  {
+    "user_id": "U1052",
+    "asset_type": "Stocks",
+    "details": "GOOGL",
+    "value": 15074
+  },
+  {
+    "user_id": "U1053",
+    "asset_type": "Crypto",
+    "details": "ADA",
+    "value": 95657
+  },
+  {
+    "user_id": "U1053",
+    "asset_type": "Crypto",
+    "details": "ADA",
+    "value": 96905
+  },
+  {
+    "user_id": "U1053",
+    "asset_type": "Crypto",
+    "details": "BTC",
+    "value": 40260
+  },
+  {
+    "user_id": "U1054",
+    "asset_type": "Stocks",
+    "details": "TSLA",
+    "value": 84936
+  },
+  {
+    "user_id": "U1054",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 22320
+  },
+  {
+    "user_id": "U1054",
+    "asset_type": "Mutual Funds",
+    "details": "VFIAX",
+    "value": 67940
+  },
+  {
+    "user_id": "U1055",
+    "asset_type": "Crypto",
+    "details": "ETH",
+    "value": 74948
+  },
+  {
+    "user_id": "U1055",
+    "asset_type": "Stocks",
+    "details": "TSLA",
+    "value": 91045
+  },
+  {
+    "user_id": "U1056",
+    "asset_type": "Mutual Funds",
+    "details": "VFIAX",
+    "value": 34782
+  },
+  {
+    "user_id": "U1056",
+    "asset_type": "Crypto",
+    "details": "ADA",
+    "value": 14215
+  },
+  {
+    "user_id": "U1056",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 38187
+  },
+  {
+    "user_id": "U1057",
+    "asset_type": "Crypto",
+    "details": "BTC",
+    "value": 97185
+  },
+  {
+    "user_id": "U1057",
+    "asset_type": "Crypto",
+    "details": "ETH",
+    "value": 54652
+  },
+  {
+    "user_id": "U1058",
+    "asset_type": "Crypto",
+    "details": "SOL",
+    "value": 26983
+  },
+  {
+    "user_id": "U1058",
+    "asset_type": "Stocks",
+    "details": "AAPL",
+    "value": 92871
+  },
+  {
+    "user_id": "U1059",
+    "asset_type": "Crypto",
+    "details": "ETH",
+    "value": 21586
+  },
+  {
+    "user_id": "U1059",
+    "asset_type": "Crypto",
+    "details": "SOL",
+    "value": 74500
+  },
+  {
+    "user_id": "U1060",
+    "asset_type": "Stocks",
+    "details": "GOOGL",
+    "value": 48968
+  },
+  {
+    "user_id": "U1060",
+    "asset_type": "Mutual Funds",
+    "details": "FXAIX",
+    "value": 33330
+  },
+  {
+    "user_id": "U1060",
+    "asset_type": "Savings",
+    "details": "Chase",
+    "value": 49508
+  },
+  {
+    "user_id": "U1061",
+    "asset_type": "Crypto",
+    "details": "ADA",
+    "value": 62029
+  },
+  {
+    "user_id": "U1061",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 25855
+  },
+  {
+    "user_id": "U1062",
+    "asset_type": "Savings",
+    "details": "Chase",
+    "value": 98660
+  },
+  {
+    "user_id": "U1063",
+    "asset_type": "Savings",
+    "details": "ICICI",
+    "value": 52965
+  },
+  {
+    "user_id": "U1063",
+    "asset_type": "Savings",
+    "details": "BoA",
+    "value": 30231
+  },
+  {
+    "user_id": "U1063",
+    "asset_type": "Savings",
+    "details": "HDFC",
+    "value": 53390
+  },
+  {
+    "user_id": "U1064",
+    "asset_type": "Savings",
+    "details": "Chase",
+    "value": 43814
+  },
+  {
+    "user_id": "U1064",
+    "asset_type": "Crypto",
+    "details": "BTC",
+    "value": 70606
+  },
+  {
+    "user_id": "U1064",
+    "asset_type": "Savings",
+    "details": "ICICI",
+    "value": 56438
+  },
+  {
+    "user_id": "U1065",
+    "asset_type": "Savings",
+    "details": "BoA",
+    "value": 55172
+  },
+  {
+    "user_id": "U1066",
+    "asset_type": "Stocks",
+    "details": "GOOGL",
+    "value": 68118
+  },
+  {
+    "user_id": "U1066",
+    "asset_type": "Stocks",
+    "details": "AAPL",
+    "value": 84002
+  },
+  {
+    "user_id": "U1067",
+    "asset_type": "Crypto",
+    "details": "SOL",
+    "value": 83956
+  },
+  {
+    "user_id": "U1067",
+    "asset_type": "Mutual Funds",
+    "details": "FXAIX",
+    "value": 17663
+  },
+  {
+    "user_id": "U1068",
+    "asset_type": "Mutual Funds",
+    "details": "FXAIX",
+    "value": 31879
+  },
+  {
+    "user_id": "U1068",
+    "asset_type": "Stocks",
+    "details": "TSLA",
+    "value": 35090
+  },
+  {
+    "user_id": "U1069",
+    "asset_type": "Savings",
+    "details": "BoA",
+    "value": 51480
+  },
+  {
+    "user_id": "U1070",
+    "asset_type": "Mutual Funds",
+    "details": "FXAIX",
+    "value": 68653
+  },
+  {
+    "user_id": "U1071",
+    "asset_type": "Stocks",
+    "details": "MSFT",
+    "value": 14019
+  },
+  {
+    "user_id": "U1071",
+    "asset_type": "Crypto",
+    "details": "BTC",
+    "value": 52913
+  },
+  {
+    "user_id": "U1072",
+    "asset_type": "Mutual Funds",
+    "details": "VFIAX",
+    "value": 36695
+  },
+  {
+    "user_id": "U1072",
+    "asset_type": "Crypto",
+    "details": "ADA",
+    "value": 24565
+  },
+  {
+    "user_id": "U1072",
+    "asset_type": "Crypto",
+    "details": "SOL",
+    "value": 81088
+  },
+  {
+    "user_id": "U1073",
+    "asset_type": "Savings",
+    "details": "HDFC",
+    "value": 20882
+  },
+  {
+    "user_id": "U1073",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 20389
+  },
+  {
+    "user_id": "U1073",
+    "asset_type": "Savings",
+    "details": "ICICI",
+    "value": 90430
+  },
+  {
+    "user_id": "U1074",
+    "asset_type": "Crypto",
+    "details": "ETH",
+    "value": 15662
+  },
+  {
+    "user_id": "U1075",
+    "asset_type": "Crypto",
+    "details": "SOL",
+    "value": 68320
+  },
+  {
+    "user_id": "U1075",
+    "asset_type": "Stocks",
+    "details": "MSFT",
+    "value": 95084
+  },
+  {
+    "user_id": "U1076",
+    "asset_type": "Savings",
+    "details": "ICICI",
+    "value": 82634
+  },
+  {
+    "user_id": "U1077",
+    "asset_type": "Savings",
+    "details": "HDFC",
+    "value": 45033
+  },
+  {
+    "user_id": "U1078",
+    "asset_type": "Savings",
+    "details": "BoA",
+    "value": 79704
+  },
+  {
+    "user_id": "U1078",
+    "asset_type": "Mutual Funds",
+    "details": "FXAIX",
+    "value": 77576
+  },
+  {
+    "user_id": "U1078",
+    "asset_type": "Crypto",
+    "details": "ETH",
+    "value": 62703
+  },
+  {
+    "user_id": "U1079",
+    "asset_type": "Stocks",
+    "details": "TSLA",
+    "value": 70805
+  },
+  {
+    "user_id": "U1080",
+    "asset_type": "Mutual Funds",
+    "details": "FXAIX",
+    "value": 15309
+  },
+  {
+    "user_id": "U1080",
+    "asset_type": "Mutual Funds",
+    "details": "VFIAX",
+    "value": 16381
+  },
+  {
+    "user_id": "U1081",
+    "asset_type": "Crypto",
+    "details": "BTC",
+    "value": 11505
+  },
+  {
+    "user_id": "U1082",
+    "asset_type": "Stocks",
+    "details": "AAPL",
+    "value": 43094
+  },
+  {
+    "user_id": "U1082",
+    "asset_type": "Crypto",
+    "details": "ETH",
+    "value": 99775
+  },
+  {
+    "user_id": "U1082",
+    "asset_type": "Stocks",
+    "details": "GOOGL",
+    "value": 12319
+  },
+  {
+    "user_id": "U1083",
+    "asset_type": "Stocks",
+    "details": "AAPL",
+    "value": 51185
+  },
+  {
+    "user_id": "U1083",
+    "asset_type": "Savings",
+    "details": "ICICI",
+    "value": 27225
+  },
+  {
+    "user_id": "U1084",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 97120
+  },
+  {
+    "user_id": "U1084",
+    "asset_type": "Crypto",
+    "details": "ADA",
+    "value": 92676
+  },
+  {
+    "user_id": "U1085",
+    "asset_type": "Savings",
+    "details": "ICICI",
+    "value": 97171
+  },
+  {
+    "user_id": "U1085",
+    "asset_type": "Crypto",
+    "details": "SOL",
+    "value": 89002
+  },
+  {
+    "user_id": "U1086",
+    "asset_type": "Crypto",
+    "details": "ETH",
+    "value": 63465
+  },
+  {
+    "user_id": "U1086",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 75920
+  },
+  {
+    "user_id": "U1086",
+    "asset_type": "Stocks",
+    "details": "TSLA",
+    "value": 5403
+  },
+  {
+    "user_id": "U1087",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 62596
+  },
+  {
+    "user_id": "U1087",
+    "asset_type": "Mutual Funds",
+    "details": "VFIAX",
+    "value": 24854
+  },
+  {
+    "user_id": "U1088",
+    "asset_type": "Savings",
+    "details": "BoA",
+    "value": 51713
+  },
+  {
+    "user_id": "U1088",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 20751
+  },
+  {
+    "user_id": "U1089",
+    "asset_type": "Savings",
+    "details": "BoA",
+    "value": 24134
+  },
+  {
+    "user_id": "U1090",
+    "asset_type": "Stocks",
+    "details": "MSFT",
+    "value": 25321
+  },
+  {
+    "user_id": "U1090",
+    "asset_type": "Stocks",
+    "details": "MSFT",
+    "value": 15481
+  },
+  {
+    "user_id": "U1090",
+    "asset_type": "Savings",
+    "details": "HDFC",
+    "value": 41556
+  },
+  {
+    "user_id": "U1091",
+    "asset_type": "Stocks",
+    "details": "TSLA",
+    "value": 25601
+  },
+  {
+    "user_id": "U1092",
+    "asset_type": "Mutual Funds",
+    "details": "FXAIX",
+    "value": 40668
+  },
+  {
+    "user_id": "U1092",
+    "asset_type": "Crypto",
+    "details": "ADA",
+    "value": 70162
+  },
+  {
+    "user_id": "U1092",
+    "asset_type": "Stocks",
+    "details": "MSFT",
+    "value": 96081
+  },
+  {
+    "user_id": "U1093",
+    "asset_type": "Crypto",
+    "details": "SOL",
+    "value": 45997
+  },
+  {
+    "user_id": "U1093",
+    "asset_type": "Stocks",
+    "details": "MSFT",
+    "value": 60600
+  },
+  {
+    "user_id": "U1093",
+    "asset_type": "Crypto",
+    "details": "SOL",
+    "value": 6022
+  },
+  {
+    "user_id": "U1094",
+    "asset_type": "Crypto",
+    "details": "ADA",
+    "value": 2308
+  },
+  {
+    "user_id": "U1094",
+    "asset_type": "Mutual Funds",
+    "details": "VFIAX",
+    "value": 86988
+  },
+  {
+    "user_id": "U1095",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 85246
+  },
+  {
+    "user_id": "U1096",
+    "asset_type": "Savings",
+    "details": "HDFC",
+    "value": 37522
+  },
+  {
+    "user_id": "U1096",
+    "asset_type": "Savings",
+    "details": "BoA",
+    "value": 15688
+  },
+  {
+    "user_id": "U1096",
+    "asset_type": "Crypto",
+    "details": "ETH",
+    "value": 30915
+  },
+  {
+    "user_id": "U1097",
+    "asset_type": "Savings",
+    "details": "BoA",
+    "value": 59873
+  },
+  {
+    "user_id": "U1097",
+    "asset_type": "Mutual Funds",
+    "details": "VFIAX",
+    "value": 34427
+  },
+  {
+    "user_id": "U1098",
+    "asset_type": "Stocks",
+    "details": "MSFT",
+    "value": 81375
+  },
+  {
+    "user_id": "U1098",
+    "asset_type": "Stocks",
+    "details": "AAPL",
+    "value": 37390
+  },
+  {
+    "user_id": "U1098",
+    "asset_type": "Savings",
+    "details": "Chase",
+    "value": 64774
+  },
+  {
+    "user_id": "U1099",
+    "asset_type": "Savings",
+    "details": "Chase",
+    "value": 43889
+  },
+  {
+    "user_id": "U1099",
+    "asset_type": "Stocks",
+    "details": "AAPL",
+    "value": 3953
+  },
+  {
+    "user_id": "U1099",
+    "asset_type": "Mutual Funds",
+    "details": "FXAIX",
+    "value": 27020
+  },
+  {
+    "user_id": "U1100",
+    "asset_type": "Mutual Funds",
+    "details": "FXAIX",
+    "value": 79330
+  },
+  {
+    "user_id": "U1100",
+    "asset_type": "Crypto",
+    "details": "SOL",
+    "value": 27985
+  },
+  {
+    "user_id": "U1101",
+    "asset_type": "Crypto",
+    "details": "SOL",
+    "value": 57008
+  },
+  {
+    "user_id": "U1101",
+    "asset_type": "Savings",
+    "details": "ICICI",
+    "value": 24266
+  },
+  {
+    "user_id": "U1102",
+    "asset_type": "Stocks",
+    "details": "GOOGL",
+    "value": 82034
+  },
+  {
+    "user_id": "U1102",
+    "asset_type": "Savings",
+    "details": "Chase",
+    "value": 95334
+  },
+  {
+    "user_id": "U1102",
+    "asset_type": "Stocks",
+    "details": "MSFT",
+    "value": 66693
+  },
+  {
+    "user_id": "U1103",
+    "asset_type": "Crypto",
+    "details": "ADA",
+    "value": 63328
+  },
+  {
+    "user_id": "U1103",
+    "asset_type": "Stocks",
+    "details": "TSLA",
+    "value": 40008
+  },
+  {
+    "user_id": "U1103",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 86857
+  },
+  {
+    "user_id": "U1104",
+    "asset_type": "Crypto",
+    "details": "ADA",
+    "value": 24130
+  },
+  {
+    "user_id": "U1104",
+    "asset_type": "Stocks",
+    "details": "AAPL",
+    "value": 58855
+  },
+  {
+    "user_id": "U1105",
+    "asset_type": "Savings",
+    "details": "ICICI",
+    "value": 90617
+  },
+  {
+    "user_id": "U1105",
+    "asset_type": "Crypto",
+    "details": "SOL",
+    "value": 80370
+  },
+  {
+    "user_id": "U1105",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 58481
+  },
+  {
+    "user_id": "U1106",
+    "asset_type": "Stocks",
+    "details": "GOOGL",
+    "value": 5928
+  },
+  {
+    "user_id": "U1106",
+    "asset_type": "Mutual Funds",
+    "details": "FXAIX",
+    "value": 71831
+  },
+  {
+    "user_id": "U1107",
+    "asset_type": "Savings",
+    "details": "Chase",
+    "value": 11162
+  },
+  {
+    "user_id": "U1107",
+    "asset_type": "Crypto",
+    "details": "BTC",
+    "value": 58718
+  },
+  {
+    "user_id": "U1108",
+    "asset_type": "Crypto",
+    "details": "BTC",
+    "value": 11355
+  },
+  {
+    "user_id": "U1109",
+    "asset_type": "Stocks",
+    "details": "MSFT",
+    "value": 57665
+  },
+  {
+    "user_id": "U1109",
+    "asset_type": "Mutual Funds",
+    "details": "VFIAX",
+    "value": 40115
+  },
+  {
+    "user_id": "U1109",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 26990
+  },
+  {
+    "user_id": "U1110",
+    "asset_type": "Stocks",
+    "details": "TSLA",
+    "value": 22783
+  },
+  {
+    "user_id": "U1111",
+    "asset_type": "Savings",
+    "details": "BoA",
+    "value": 18282
+  },
+  {
+    "user_id": "U1111",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 93664
+  },
+  {
+    "user_id": "U1112",
+    "asset_type": "Savings",
+    "details": "Chase",
+    "value": 90020
+  },
+  {
+    "user_id": "U1113",
+    "asset_type": "Crypto",
+    "details": "ETH",
+    "value": 7527
+  },
+  {
+    "user_id": "U1114",
+    "asset_type": "Stocks",
+    "details": "AAPL",
+    "value": 18332
+  },
+  {
+    "user_id": "U1114",
+    "asset_type": "Stocks",
+    "details": "TSLA",
+    "value": 93350
+  },
+  {
+    "user_id": "U1115",
+    "asset_type": "Mutual Funds",
+    "details": "FXAIX",
+    "value": 48366
+  },
+  {
+    "user_id": "U1116",
+    "asset_type": "Stocks",
+    "details": "TSLA",
+    "value": 15860
+  },
+  {
+    "user_id": "U1116",
+    "asset_type": "Stocks",
+    "details": "TSLA",
+    "value": 83227
+  },
+  {
+    "user_id": "U1116",
+    "asset_type": "Stocks",
+    "details": "MSFT",
+    "value": 74252
+  },
+  {
+    "user_id": "U1117",
+    "asset_type": "Crypto",
+    "details": "ADA",
+    "value": 77698
+  },
+  {
+    "user_id": "U1117",
+    "asset_type": "Crypto",
+    "details": "ETH",
+    "value": 83390
+  },
+  {
+    "user_id": "U1118",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 14133
+  },
+  {
+    "user_id": "U1118",
+    "asset_type": "Stocks",
+    "details": "MSFT",
+    "value": 72593
+  },
+  {
+    "user_id": "U1119",
+    "asset_type": "Stocks",
+    "details": "TSLA",
+    "value": 97077
+  },
+  {
+    "user_id": "U1119",
+    "asset_type": "Crypto",
+    "details": "BTC",
+    "value": 52814
+  },
+  {
+    "user_id": "U1120",
+    "asset_type": "Crypto",
+    "details": "BTC",
+    "value": 61530
+  },
+  {
+    "user_id": "U1120",
+    "asset_type": "Crypto",
+    "details": "BTC",
+    "value": 59317
+  },
+  {
+    "user_id": "U1120",
+    "asset_type": "Stocks",
+    "details": "MSFT",
+    "value": 72502
+  },
+  {
+    "user_id": "U1121",
+    "asset_type": "Savings",
+    "details": "HDFC",
+    "value": 86592
+  },
+  {
+    "user_id": "U1121",
+    "asset_type": "Stocks",
+    "details": "GOOGL",
+    "value": 75547
+  },
+  {
+    "user_id": "U1122",
+    "asset_type": "Stocks",
+    "details": "MSFT",
+    "value": 80900
+  },
+  {
+    "user_id": "U1122",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 23486
+  },
+  {
+    "user_id": "U1122",
+    "asset_type": "Savings",
+    "details": "Chase",
+    "value": 28943
+  },
+  {
+    "user_id": "U1123",
+    "asset_type": "Stocks",
+    "details": "TSLA",
+    "value": 36988
+  },
+  {
+    "user_id": "U1123",
+    "asset_type": "Mutual Funds",
+    "details": "FXAIX",
+    "value": 84687
+  },
+  {
+    "user_id": "U1124",
+    "asset_type": "Savings",
+    "details": "ICICI",
+    "value": 73242
+  },
+  {
+    "user_id": "U1125",
+    "asset_type": "Stocks",
+    "details": "MSFT",
+    "value": 68131
+  },
+  {
+    "user_id": "U1126",
+    "asset_type": "Stocks",
+    "details": "MSFT",
+    "value": 77012
+  },
+  {
+    "user_id": "U1127",
+    "asset_type": "Crypto",
+    "details": "BTC",
+    "value": 85079
+  },
+  {
+    "user_id": "U1127",
+    "asset_type": "Stocks",
+    "details": "AAPL",
+    "value": 23839
+  },
+  {
+    "user_id": "U1128",
+    "asset_type": "Savings",
+    "details": "Chase",
+    "value": 53064
+  },
+  {
+    "user_id": "U1128",
+    "asset_type": "Stocks",
+    "details": "GOOGL",
+    "value": 77524
+  },
+  {
+    "user_id": "U1128",
+    "asset_type": "Crypto",
+    "details": "ETH",
+    "value": 76348
+  },
+  {
+    "user_id": "U1129",
+    "asset_type": "Savings",
+    "details": "Chase",
+    "value": 64292
+  },
+  {
+    "user_id": "U1130",
+    "asset_type": "Stocks",
+    "details": "TSLA",
+    "value": 40882
+  },
+  {
+    "user_id": "U1130",
+    "asset_type": "Mutual Funds",
+    "details": "FXAIX",
+    "value": 86746
+  },
+  {
+    "user_id": "U1130",
+    "asset_type": "Crypto",
+    "details": "ETH",
+    "value": 18399
+  },
+  {
+    "user_id": "U1131",
+    "asset_type": "Savings",
+    "details": "BoA",
+    "value": 29196
+  },
+  {
+    "user_id": "U1131",
+    "asset_type": "Savings",
+    "details": "Chase",
+    "value": 47425
+  },
+  {
+    "user_id": "U1131",
+    "asset_type": "Crypto",
+    "details": "BTC",
+    "value": 85080
+  },
+  {
+    "user_id": "U1132",
+    "asset_type": "Mutual Funds",
+    "details": "FXAIX",
+    "value": 6328
+  },
+  {
+    "user_id": "U1133",
+    "asset_type": "Savings",
+    "details": "ICICI",
+    "value": 93601
+  },
+  {
+    "user_id": "U1134",
+    "asset_type": "Savings",
+    "details": "Chase",
+    "value": 52830
+  },
+  {
+    "user_id": "U1134",
+    "asset_type": "Savings",
+    "details": "ICICI",
+    "value": 99488
+  },
+  {
+    "user_id": "U1135",
+    "asset_type": "Crypto",
+    "details": "ETH",
+    "value": 21014
+  },
+  {
+    "user_id": "U1135",
+    "asset_type": "Crypto",
+    "details": "ETH",
+    "value": 70167
+  },
+  {
+    "user_id": "U1135",
+    "asset_type": "Crypto",
+    "details": "SOL",
+    "value": 55613
+  },
+  {
+    "user_id": "U1136",
+    "asset_type": "Stocks",
+    "details": "MSFT",
+    "value": 36224
+  },
+  {
+    "user_id": "U1137",
+    "asset_type": "Crypto",
+    "details": "BTC",
+    "value": 36159
+  },
+  {
+    "user_id": "U1137",
+    "asset_type": "Savings",
+    "details": "Chase",
+    "value": 76600
+  },
+  {
+    "user_id": "U1137",
+    "asset_type": "Savings",
+    "details": "HDFC",
+    "value": 8873
+  },
+  {
+    "user_id": "U1138",
+    "asset_type": "Crypto",
+    "details": "SOL",
+    "value": 15940
+  },
+  {
+    "user_id": "U1138",
+    "asset_type": "Stocks",
+    "details": "GOOGL",
+    "value": 49593
+  },
+  {
+    "user_id": "U1138",
+    "asset_type": "Crypto",
+    "details": "ADA",
+    "value": 23911
+  },
+  {
+    "user_id": "U1139",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 86417
+  },
+  {
+    "user_id": "U1139",
+    "asset_type": "Stocks",
+    "details": "GOOGL",
+    "value": 42514
+  },
+  {
+    "user_id": "U1139",
+    "asset_type": "Savings",
+    "details": "ICICI",
+    "value": 89949
+  },
+  {
+    "user_id": "U1140",
+    "asset_type": "Crypto",
+    "details": "ETH",
+    "value": 48412
+  },
+  {
+    "user_id": "U1141",
+    "asset_type": "Stocks",
+    "details": "GOOGL",
+    "value": 63203
+  },
+  {
+    "user_id": "U1142",
+    "asset_type": "Stocks",
+    "details": "TSLA",
+    "value": 12416
+  },
+  {
+    "user_id": "U1142",
+    "asset_type": "Stocks",
+    "details": "AAPL",
+    "value": 18628
+  },
+  {
+    "user_id": "U1142",
+    "asset_type": "Savings",
+    "details": "HDFC",
+    "value": 25352
+  },
+  {
+    "user_id": "U1143",
+    "asset_type": "Mutual Funds",
+    "details": "VTSAX",
+    "value": 39122
+  },
+  {
+    "user_id": "U1143",
+    "asset_type": "Crypto",
+    "details": "ADA",
+    "value": 97140
+  },
+  {
+    "user_id": "U1144",
+    "asset_type": "Stocks",
+    "details": "TSLA",
+    "value": 85932
+  },
+  {
+    "user_id": "U1145",
+    "asset_type": "Stocks",
+    "details": "MSFT",
+    "value": 82263
+  },
+  {
+    "user_id": "U1145",
+    "asset_type": "Mutual Funds",
+    "details": "VFIAX",
+    "value": 34757
+  },
+  {
+    "user_id": "U1145",
+    "asset_type": "Stocks",
+    "details": "MSFT",
+    "value": 33505
+  },
+  {
+    "user_id": "U1146",
+    "asset_type": "Stocks",
+    "details": "GOOGL",
+    "value": 27532
+  },
+  {
+    "user_id": "U1147",
+    "asset_type": "Savings",
+    "details": "Chase",
+    "value": 47326
+  },
+  {
+    "user_id": "U1148",
+    "asset_type": "Crypto",
+    "details": "ADA",
+    "value": 88733
+  },
+  {
+    "user_id": "U1148",
+    "asset_type": "Crypto",
+    "details": "SOL",
+    "value": 18160
+  },
+  {
+    "user_id": "U1149",
+    "asset_type": "Stocks",
+    "details": "AAPL",
+    "value": 43252
+  }
+]

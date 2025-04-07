@@ -1,0 +1,1052 @@
+[
+  {
+    "user_id": "U1000",
+    "name": "Kaitlyn Sanders",
+    "email": "eringarcia@peterson.info",
+    "income": 119970,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1001",
+    "name": "Catherine Davis",
+    "email": "nicolewright@santos.biz",
+    "income": 136033,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1002",
+    "name": "Emma Bell",
+    "email": "hancockcharles@webb.com",
+    "income": 93992,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1003",
+    "name": "Christine Walker",
+    "email": "martinlouis@yahoo.com",
+    "income": 79588,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1004",
+    "name": "Felicia Patel",
+    "email": "ydominguez@gmail.com",
+    "income": 140328,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1005",
+    "name": "Kathy Parker",
+    "email": "shawnaharrison@gmail.com",
+    "income": 125164,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1006",
+    "name": "Christina Sullivan",
+    "email": "morgankoch@flowers.info",
+    "income": 121043,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1007",
+    "name": "Krystal Berger",
+    "email": "tthomas@williams-miller.biz",
+    "income": 69739,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1008",
+    "name": "Kristen Allen",
+    "email": "williamsalazar@gregory.org",
+    "income": 132621,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1009",
+    "name": "Tommy Gomez",
+    "email": "benjamin00@knight.com",
+    "income": 31590,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1010",
+    "name": "Mary French",
+    "email": "bridgesshawn@yahoo.com",
+    "income": 121017,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1011",
+    "name": "Pamela Curtis",
+    "email": "cmelton@gmail.com",
+    "income": 79710,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1012",
+    "name": "Steven Smith",
+    "email": "harriskevin@hotmail.com",
+    "income": 119526,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1013",
+    "name": "Michael Watson",
+    "email": "patricia22@gmail.com",
+    "income": 80100,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1014",
+    "name": "Debbie Sandoval",
+    "email": "eugeneperez@yahoo.com",
+    "income": 141734,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1015",
+    "name": "Priscilla Martin",
+    "email": "urodriguez@yahoo.com",
+    "income": 31461,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1016",
+    "name": "Tiffany Lynch",
+    "email": "bonnie42@stevens.com",
+    "income": 59714,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1017",
+    "name": "Joshua Ramos DDS",
+    "email": "robert01@bray.biz",
+    "income": 129079,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1018",
+    "name": "Jimmy Boyd",
+    "email": "wrightalbert@koch.com",
+    "income": 109288,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1019",
+    "name": "Kristen Stone",
+    "email": "xcasey@andrade-davis.com",
+    "income": 124147,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1020",
+    "name": "Amanda Chandler",
+    "email": "jacob62@hotmail.com",
+    "income": 145346,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1021",
+    "name": "Lori Hensley",
+    "email": "thomaskyle@garcia.org",
+    "income": 106879,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1022",
+    "name": "Katrina Brown",
+    "email": "cguzman@gmail.com",
+    "income": 83023,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1023",
+    "name": "Karen Kirk",
+    "email": "fwu@vasquez-sampson.net",
+    "income": 78650,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1024",
+    "name": "Shirley King",
+    "email": "ninaclark@hotmail.com",
+    "income": 123088,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1025",
+    "name": "Cindy Knight",
+    "email": "millertravis@yahoo.com",
+    "income": 42567,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1026",
+    "name": "Michael Bates",
+    "email": "qfoster@yahoo.com",
+    "income": 65216,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1027",
+    "name": "Lauren Hardy",
+    "email": "susantodd@hunter.com",
+    "income": 93580,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1028",
+    "name": "Michael Dunlap",
+    "email": "hhale@rollins.com",
+    "income": 115725,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1029",
+    "name": "Brandon Black",
+    "email": "xthompson@smith.com",
+    "income": 48495,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1030",
+    "name": "Crystal Walter",
+    "email": "denisesmith@escobar.org",
+    "income": 110973,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1031",
+    "name": "Elizabeth Russell",
+    "email": "amandamorales@schwartz-black.com",
+    "income": 147457,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1032",
+    "name": "Jennifer Rhodes",
+    "email": "nancy43@gmail.com",
+    "income": 143679,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1033",
+    "name": "Corey Santos",
+    "email": "mjohnston@hotmail.com",
+    "income": 61780,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1034",
+    "name": "Craig Alvarado",
+    "email": "leonardmichael@hanson-cooper.info",
+    "income": 62504,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1035",
+    "name": "David Davidson",
+    "email": "stephaniebrown@yahoo.com",
+    "income": 142592,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1036",
+    "name": "Charles Harrell",
+    "email": "westdavid@ray.com",
+    "income": 148955,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1037",
+    "name": "James Roberts",
+    "email": "wesley08@hotmail.com",
+    "income": 137697,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1038",
+    "name": "Shelley Mcclain",
+    "email": "bcaldwell@rosario.com",
+    "income": 125396,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1039",
+    "name": "Carolyn Stone",
+    "email": "smithtroy@adams.com",
+    "income": 54349,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1040",
+    "name": "James Powers DDS",
+    "email": "wolfecarlos@yahoo.com",
+    "income": 115663,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1041",
+    "name": "Joe Riley",
+    "email": "guzmanjacob@moses.org",
+    "income": 135381,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1042",
+    "name": "Debbie Ramsey",
+    "email": "ahernandez@hotmail.com",
+    "income": 74617,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1043",
+    "name": "Joshua Miles",
+    "email": "hlewis@gmail.com",
+    "income": 32082,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1044",
+    "name": "Maria Campbell",
+    "email": "thomas60@yahoo.com",
+    "income": 146731,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1045",
+    "name": "Danielle Cooper",
+    "email": "wigginslisa@contreras.net",
+    "income": 45002,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1046",
+    "name": "Scott Gallagher",
+    "email": "savannahweber@gmail.com",
+    "income": 40155,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1047",
+    "name": "Jorge Graham",
+    "email": "sarah56@yahoo.com",
+    "income": 105358,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1048",
+    "name": "Kristina Fuller",
+    "email": "rachel28@gmail.com",
+    "income": 107896,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1049",
+    "name": "Michael Kelly",
+    "email": "troybarnett@moore.com",
+    "income": 69783,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1050",
+    "name": "Jessica Rivera",
+    "email": "gmckinney@yahoo.com",
+    "income": 65948,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1051",
+    "name": "James Mcfarland",
+    "email": "frederickmorrison@taylor.com",
+    "income": 90939,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1052",
+    "name": "Veronica Greene",
+    "email": "danielmahoney@hotmail.com",
+    "income": 57109,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1053",
+    "name": "Jimmy Ford",
+    "email": "ymartinez@doyle.com",
+    "income": 56646,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1054",
+    "name": "Lauren Simpson",
+    "email": "amanda83@hotmail.com",
+    "income": 80311,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1055",
+    "name": "William King",
+    "email": "ericjenkins@gmail.com",
+    "income": 36471,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1056",
+    "name": "Jennifer Wilcox",
+    "email": "stevensonbarbara@martin-edwards.net",
+    "income": 53319,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1057",
+    "name": "Phillip Anderson",
+    "email": "riverajames@yahoo.com",
+    "income": 56885,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1058",
+    "name": "Joanne Pena",
+    "email": "upacheco@gmail.com",
+    "income": 86270,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1059",
+    "name": "Brendan Rivera",
+    "email": "pamela73@hotmail.com",
+    "income": 66038,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1060",
+    "name": "Kathy Smith",
+    "email": "paulcunningham@trujillo-chen.com",
+    "income": 46710,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1061",
+    "name": "Jean Vargas",
+    "email": "iwang@gmail.com",
+    "income": 136247,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1062",
+    "name": "Crystal Trujillo",
+    "email": "karenberry@johnson.org",
+    "income": 59104,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1063",
+    "name": "Daniel Barnett",
+    "email": "brian37@norris.org",
+    "income": 138363,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1064",
+    "name": "Andrea Turner",
+    "email": "amiller@ellis.com",
+    "income": 112439,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1065",
+    "name": "Misty Conley",
+    "email": "christophersmith@yahoo.com",
+    "income": 144625,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1066",
+    "name": "Paul Graham",
+    "email": "jaclyn10@hotmail.com",
+    "income": 135610,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1067",
+    "name": "Mr. Cody Fischer",
+    "email": "jonesryan@best.com",
+    "income": 111582,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1068",
+    "name": "Emily Cooley",
+    "email": "carrie52@gmail.com",
+    "income": 132822,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1069",
+    "name": "Kevin Reyes",
+    "email": "kingjean@holloway.info",
+    "income": 105752,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1070",
+    "name": "Anthony Cantrell",
+    "email": "beckerryan@hotmail.com",
+    "income": 47282,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1071",
+    "name": "Kathryn Johnston",
+    "email": "timothymorgan@bowers.info",
+    "income": 74802,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1072",
+    "name": "Brenda Gonzalez",
+    "email": "david48@thomas-ramirez.biz",
+    "income": 51309,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1073",
+    "name": "Katherine Holland",
+    "email": "ymyers@guzman.net",
+    "income": 68351,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1074",
+    "name": "Jose Anderson",
+    "email": "charles26@oliver.com",
+    "income": 81855,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1075",
+    "name": "Tim Miller",
+    "email": "michaelyoung@yahoo.com",
+    "income": 53895,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1076",
+    "name": "Kristine Gutierrez",
+    "email": "goodwinmichelle@yahoo.com",
+    "income": 69390,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1077",
+    "name": "Carrie Brown",
+    "email": "lori10@fritz.com",
+    "income": 47625,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1078",
+    "name": "Ethan Brown",
+    "email": "pedro03@pierce.biz",
+    "income": 112741,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1079",
+    "name": "George Liu",
+    "email": "lisa69@dawson.com",
+    "income": 103495,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1080",
+    "name": "Henry Singh",
+    "email": "anthonysanchez@hotmail.com",
+    "income": 63078,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1081",
+    "name": "Tiffany Hatfield",
+    "email": "ymartin@jones.net",
+    "income": 81916,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1082",
+    "name": "Colleen Garcia",
+    "email": "laura62@taylor.com",
+    "income": 138185,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1083",
+    "name": "Ashley Russo",
+    "email": "brandon78@hotmail.com",
+    "income": 83390,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1084",
+    "name": "Nicole Ruiz",
+    "email": "rodriguezjeffrey@gmail.com",
+    "income": 126078,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1085",
+    "name": "Joseph Reese",
+    "email": "harrisjason@gmail.com",
+    "income": 62777,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1086",
+    "name": "Jasmin Murphy",
+    "email": "vanessapayne@hawkins.com",
+    "income": 63769,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1087",
+    "name": "Bradley Myers",
+    "email": "nicholashernandez@gmail.com",
+    "income": 30353,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1088",
+    "name": "Amber Beard",
+    "email": "davidkim@coleman.net",
+    "income": 107397,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1089",
+    "name": "Julie Patterson",
+    "email": "danielle18@hunter-garcia.biz",
+    "income": 140872,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1090",
+    "name": "Ronald Price",
+    "email": "currychristina@hotmail.com",
+    "income": 44257,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1091",
+    "name": "Chad Garza",
+    "email": "ocaldwell@collins-blair.com",
+    "income": 58566,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1092",
+    "name": "Lisa Thompson",
+    "email": "hallgina@yahoo.com",
+    "income": 32608,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1093",
+    "name": "Shelley Mcgee",
+    "email": "clayton02@yahoo.com",
+    "income": 36609,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1094",
+    "name": "Raymond Lee",
+    "email": "joe06@kim.net",
+    "income": 45527,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1095",
+    "name": "Barbara Young",
+    "email": "zdavis@yahoo.com",
+    "income": 42873,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1096",
+    "name": "Shawn Johnson",
+    "email": "andrewlambert@yahoo.com",
+    "income": 136339,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1097",
+    "name": "Lori Taylor",
+    "email": "trevinobrendan@gmail.com",
+    "income": 104320,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1098",
+    "name": "Mary Henson",
+    "email": "patrick16@gmail.com",
+    "income": 50109,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1099",
+    "name": "Billy Pope",
+    "email": "charles26@george-wagner.com",
+    "income": 125261,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1100",
+    "name": "Travis Hernandez",
+    "email": "paullong@gould.net",
+    "income": 77786,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1101",
+    "name": "Jimmy Johnson",
+    "email": "garciaashley@ross.com",
+    "income": 72300,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1102",
+    "name": "Darlene Cooper",
+    "email": "katherinewilliams@cunningham-ruiz.org",
+    "income": 147555,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1103",
+    "name": "Amy Lynch",
+    "email": "jenny12@garcia.com",
+    "income": 133014,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1104",
+    "name": "Gerald Mack",
+    "email": "keithpaul@yahoo.com",
+    "income": 91154,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1105",
+    "name": "Scott Jones",
+    "email": "karencoleman@stewart.com",
+    "income": 65812,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1106",
+    "name": "Brian Flores",
+    "email": "dennis51@smith-king.com",
+    "income": 137577,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1107",
+    "name": "Jill Mccoy",
+    "email": "jonesstephen@dickerson.com",
+    "income": 112763,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1108",
+    "name": "Donald Jackson",
+    "email": "qmontes@davis.net",
+    "income": 34212,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1109",
+    "name": "Craig Wang",
+    "email": "katelynmeadows@johnson-garrett.com",
+    "income": 122268,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1110",
+    "name": "Kenneth Stewart",
+    "email": "gonzalezbryan@juarez.org",
+    "income": 87900,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1111",
+    "name": "John Bailey",
+    "email": "hebertcalvin@yahoo.com",
+    "income": 76092,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1112",
+    "name": "Danny Newton",
+    "email": "amayo@hotmail.com",
+    "income": 104067,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1113",
+    "name": "Andre Miranda",
+    "email": "joeloneill@orozco.com",
+    "income": 30953,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1114",
+    "name": "David Keller",
+    "email": "nicole41@farley-spencer.info",
+    "income": 120447,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1115",
+    "name": "Cynthia Smith",
+    "email": "debra91@yahoo.com",
+    "income": 38770,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1116",
+    "name": "James Myers",
+    "email": "michaelwilliams@foley.com",
+    "income": 73231,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1117",
+    "name": "Andrew Cherry",
+    "email": "shari29@hotmail.com",
+    "income": 72084,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1118",
+    "name": "Matthew Romero",
+    "email": "omartinez@brown.org",
+    "income": 87037,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1119",
+    "name": "Mrs. Denise Hall MD",
+    "email": "vaughangina@yahoo.com",
+    "income": 113527,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1120",
+    "name": "Diana Flores",
+    "email": "cschaefer@gmail.com",
+    "income": 72079,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1121",
+    "name": "Jordan Hoffman",
+    "email": "kevin67@gmail.com",
+    "income": 148185,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1122",
+    "name": "Nicholas Ortiz",
+    "email": "kelly76@gmail.com",
+    "income": 131210,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1123",
+    "name": "Veronica Parrish",
+    "email": "uwalsh@gmail.com",
+    "income": 132401,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1124",
+    "name": "Samantha Coleman",
+    "email": "amber11@richards.com",
+    "income": 104862,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1125",
+    "name": "Michael Baldwin",
+    "email": "thomas76@gmail.com",
+    "income": 120315,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1126",
+    "name": "Rebecca Escobar",
+    "email": "toddjennifer@yahoo.com",
+    "income": 129802,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1127",
+    "name": "Jennifer Russell",
+    "email": "brendaesparza@yahoo.com",
+    "income": 45804,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1128",
+    "name": "Patricia Craig",
+    "email": "oguzman@hotmail.com",
+    "income": 129518,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1129",
+    "name": "Brandon Todd",
+    "email": "danielle95@duran.com",
+    "income": 84265,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1130",
+    "name": "April Franklin",
+    "email": "tiffany61@gmail.com",
+    "income": 114412,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1131",
+    "name": "Debra Griffin",
+    "email": "bishopaaron@hunter.net",
+    "income": 42754,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1132",
+    "name": "John Turner",
+    "email": "todddawson@wilson.com",
+    "income": 51433,
+    "employment_status": "Self-Employed"
+  },
+  {
+    "user_id": "U1133",
+    "name": "Adrian Hamilton",
+    "email": "allenwilliam@clark.info",
+    "income": 121682,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1134",
+    "name": "Anthony Martin",
+    "email": "adamsjeffrey@howard.biz",
+    "income": 68396,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1135",
+    "name": "Margaret Erickson",
+    "email": "christian82@hotmail.com",
+    "income": 108833,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1136",
+    "name": "Leslie Hale",
+    "email": "danielnolan@yahoo.com",
+    "income": 71135,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1137",
+    "name": "Daniel Melendez",
+    "email": "yevans@johnson.org",
+    "income": 136644,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1138",
+    "name": "Samantha Sosa",
+    "email": "festes@yahoo.com",
+    "income": 126436,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1139",
+    "name": "Deborah Chang",
+    "email": "rodriguezrachel@wright.com",
+    "income": 140388,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1140",
+    "name": "Samantha Lewis",
+    "email": "heather81@campbell-howard.net",
+    "income": 40538,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1141",
+    "name": "Pamela Wagner",
+    "email": "myerskristina@ellis-francis.com",
+    "income": 58395,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1142",
+    "name": "Stephanie Kim",
+    "email": "xpitts@palmer.net",
+    "income": 45806,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1143",
+    "name": "Eric Gallegos",
+    "email": "youngmichele@yahoo.com",
+    "income": 50500,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1144",
+    "name": "Patrick Anderson DDS",
+    "email": "vargascaitlin@gmail.com",
+    "income": 113384,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1145",
+    "name": "Judy Barnes",
+    "email": "eyoung@hotmail.com",
+    "income": 118757,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1146",
+    "name": "Brian Gilbert",
+    "email": "christopher38@carlson.net",
+    "income": 32806,
+    "employment_status": "Unemployed"
+  },
+  {
+    "user_id": "U1147",
+    "name": "Jeremy Jones",
+    "email": "brettnelson@brown.info",
+    "income": 52775,
+    "employment_status": "Part-Time"
+  },
+  {
+    "user_id": "U1148",
+    "name": "Charles Benson",
+    "email": "odelgado@cameron-bass.info",
+    "income": 136875,
+    "employment_status": "Full-Time"
+  },
+  {
+    "user_id": "U1149",
+    "name": "Toni Wall",
+    "email": "daniel21@hampton-frazier.com",
+    "income": 46133,
+    "employment_status": "Unemployed"
+  }
+]
